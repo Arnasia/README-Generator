@@ -41,6 +41,24 @@ function generateMarkdown(data) {console.log(data)
   ## DESCRIPTION
   # ${data.description}
 
+  ## Installation
+  # ${data.installation}
+
+  ## Usage
+  # ${data.usage}
+
+  ## Tests
+  # ${data.tests}
+
+  ## Application Link
+  # ${data.link}
+
+  ## GitHub
+  # ${data.github}
+
+  ## Contributors
+  # ${data.contributors}
+
  
 `;
 }

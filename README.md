@@ -70,7 +70,7 @@ This section you will display your link to the application.
 
 Reference your github here
 
-- [Questions](#questions)
+## Questions
 
 Give them contact information to where they can submit any questions.
 

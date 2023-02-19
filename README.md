@@ -74,6 +74,6 @@ Reference your github here
 
 Give them contact information to where they can submit any questions.
 
-- [Contact](#contact)
+## Contact
 
 This is where you will list your contact info.

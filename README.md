@@ -66,7 +66,7 @@ This section is where you can go the extra mile and write tests for your applica
 
 This section you will display your link to the application.
 
-- [Github](#Github)
+## Github
 
 Reference your github here
 

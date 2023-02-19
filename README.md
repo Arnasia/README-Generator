@@ -62,7 +62,7 @@ If you created an application or package and would like other developers to cont
 
 This section is where you can go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
-- [Application Link](#applink)
+## Application
 
 This section you will display your link to the application.
 

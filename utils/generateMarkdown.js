@@ -47,6 +47,21 @@ function generateMarkdown(data) {console.log(data)
   ## Usage
   # ${data.usage}
 
+  ## Contributors
+  # ${data.contributors}
+
+  ## License
+  # ${data.license}
+
+  ## Badges
+  # ${data.badges}
+
+  ## Features
+  # ${data.features}
+
+  ## How to Contribute
+  # ${data.howtocontribute}
+
   ## Tests
   # ${data.tests}
 
@@ -56,11 +71,12 @@ function generateMarkdown(data) {console.log(data)
   ## GitHub
   # ${data.github}
 
-  ## Contributors
-  # ${data.contributors}
+ ## Questions
+ If you have any questions, please submit them to ${data.contact}
 
- 
-`;
+ ## Contact
+ ${data.creator}
+ ${data.contact}`;
 }
 
 module.exports = generateMarkdown;

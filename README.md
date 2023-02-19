@@ -2,7 +2,7 @@
 
 ## Description
 
-This App allows you to generate a professionally clean README file using node.js and inquirer. You generate this by using node in the command line.
+This App allows you to generate a professionally clean README file using node.js and inquirer. You generate this by using node in the command line. Users will be prompted with a series of questions and their input will be captured and display in the new readme they have created.
 
 ## Table of Contents (Optional)
 
@@ -61,3 +61,19 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 This section is where you can go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+- [Application Link](#applink)
+
+This section you will display your link to the application.
+
+- [Github](#Github)
+
+Reference your github here
+
+- [Questions](#questions)
+
+Give them contact information to where they can submit any questions.
+
+- [Contact](#contact)
+
+This is where you will list your contact info.

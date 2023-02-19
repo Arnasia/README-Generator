@@ -15,12 +15,6 @@ let questions =[{
     message: "Provide a description of your project?",
 },
 {
-    type: "list",
-    name: "license",
-    message: "Did you use any licenses?",
-    choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
-},
-{
     type: "input",
     name: "installation",
     message: "Does this project have specific installation requirements?",
@@ -29,6 +23,37 @@ let questions =[{
     type: "input",
     name: "usage",
     message: "Does this project have usage guidelines?",
+},
+{
+    type: "input",
+    name: "contributors",
+    message: "List the GitHub usernames of all contributors for this project:",
+},
+{
+    type: "list",
+    name: "license",
+    message: "Did you use any licenses?",
+    choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
+},
+{
+    type: "input",
+    name: "badges",
+    message: "List any necessary badges:",
+},
+{
+    type: "input",
+    name: "features",
+    message: "List any features:",
+},
+{
+    type: "input",
+    name: "Howtocontribute",
+    message: "How would you like for them to contriubte?",
+},
+{
+    type: "input",
+    name: "tests",
+    message: "Does this project require tests?"
 },
 {
     type: "input",
@@ -49,17 +74,6 @@ let questions =[{
     type: "input",
     name: "contact",
     message: "Provide a valid email address?",
-},
-{
-    type: "input",
-    name: "tests",
-    message: "Does this project require tests?"
-
-},
-{
-    type: "input",
-    name: "contributors",
-    message: "List the GitHub usernames of all contributors for this project:",
 },
 
 ]

@@ -15,7 +15,6 @@ This App allows you to generate a professionally clean README file using node.js
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [License](#license)
-- [Badges](#badges)
 - [Features](#features)
 - [How to Contribute](#howtocontribute)
 - [Tests](#tests)
@@ -45,10 +44,6 @@ If you followed tutorials, include links to those here as well.
 ## License
 
 This section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project.
-
-## Badges
-
-IN this sections is where you list badges which aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing.
 
 ## Features
 

@@ -53,9 +53,6 @@ function generateMarkdown(data) {console.log(data)
   ## License
   # ${data.license}
 
-  ## Badges
-  # ${data.badges}
-
   ## Features
   # ${data.features}
 

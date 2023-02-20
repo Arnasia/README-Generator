@@ -37,11 +37,6 @@ let questions =[{
 },
 {
     type: "input",
-    name: "badges",
-    message: "List any necessary badges:",
-},
-{
-    type: "input",
     name: "features",
     message: "List any features:",
 },

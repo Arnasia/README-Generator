@@ -74,6 +74,7 @@ function generateMarkdown(data) {console.log(data)
  If you have any questions, please submit them to ${data.contact}
 
  ## Contact
+ Listed in this section is contact information.
  ${data.creator}
  ${data.contact}`;
 }

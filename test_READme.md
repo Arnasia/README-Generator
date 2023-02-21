@@ -1,21 +1,21 @@
-
+# Elegant README Generator
 
   ![badge](https://img.sheilds.io/badge/license-MIT-blue)
   
   ## TITLE
-  # title
+  # Elegant README Generator
 
   ## DESCRIPTION
-  # project
+  # This App allows you to generate a perfessionally clean README file using node.js .
 
   ## Installation
-  # yes
+  # This section would provide step-by-step instructions on how  to install  the  appp
 
   ## Usage
-  # yes
+  # This section will provide instructions and example for use which will also   include   screenshots   as  needed
 
   ## Contributors
-  # list contributors
+  # This is where you will list your contributors , if any, with links to their Github profilesa
 
   ## License
   # MIT
@@ -25,23 +25,23 @@
     
 
   ## Features
-  # list features
+  # If your project has a lot of features, list them here.
 
   ## How to Contribute
   # undefined
 
   ## Tests
-  # yes
+  # This section is where you can go the extra mile and write tests for your application .Then provide examples on how to run them here
 
   ## Application Link
-  # link project
+  # This section will display your link to your application
 
   ## GitHub
-  # github usernames
+  # Arnasia
 
  ## Questions
- If you have any questions, please submit them to email address
+ If you have any questions, please submit them to arnasial.jackson@gmail.com
 
  ## Contact
- enter full name
- email address
+ Arnasia Jackson
+ arnasial.jackson@gmail.com

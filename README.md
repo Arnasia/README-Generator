@@ -34,7 +34,7 @@
   # This section is where users can go the extra mile and write tests for their application. Then provide examples on how to run them here.
 
   ## Application Link
-  # This section you will display your link to the application.
+  # This section you will display your link to the application. ![This is a mock-up of the live Application](./video/Readme%20generator%20video.webm)
 
   ## GitHub
   # Arnasia

@@ -59,7 +59,7 @@ function generateMarkdown(data) {console.log(data)
   ${data.features}
 
   ## How to Contribute
-  ${data.howtocontribute}
+  ${data.Howtocontribute}
 
   ## Tests
   ${data.tests}

@@ -43,7 +43,7 @@ let questions =[{
 {
     type: "input",
     name: "Howtocontribute",
-    message: "How would you like for them to contriubte?",
+    message: "How would you like for them to contribute?",
 },
 {
     type: "input",

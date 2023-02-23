@@ -87,7 +87,7 @@ function init() {
  inquirer.prompt(questions).then (answers => {
 let READMEstring=generateMarkdown(answers);
 console.log(READMEstring)
-writeToFile('test_READme.md',READMEstring)
+writeToFile('README.md',READMEstring)
  })
 }
 

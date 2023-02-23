@@ -36,39 +36,39 @@ function generateMarkdown(data) {console.log(data)
   ${renderLicenseBadge(data.license)}
   
   ## TITLE
-  # ${data.title}
+   ${data.title}
 
   ## DESCRIPTION
-  # ${data.description}
+  ${data.description}
 
   ## Installation
-  # ${data.installation}
+  ${data.installation}
 
   ## Usage
-  # ${data.usage}
+  ${data.usage}
 
   ## Contributors
-  # ${data.contributors}
+  ${data.contributors}
 
   ## License
-  # ${data.license}
-  # ${renderLicenseSection(data.license)}
-  # ${renderLicenseLink(data.license)}
+  ${data.license}
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
 
   ## Features
-  # ${data.features}
+  ${data.features}
 
   ## How to Contribute
-  # ${data.howtocontribute}
+  ${data.howtocontribute}
 
   ## Tests
-  # ${data.tests}
+  ${data.tests}
 
   ## Application Link
-  # ${data.link}
+  ${data.link}
 
   ## GitHub
-  # ${data.github}
+  ${data.github}
 
  ## Questions
  If you have any questions, please submit them to ${data.contact}

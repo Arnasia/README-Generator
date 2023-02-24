@@ -35,6 +35,7 @@
 
   ## Application Link
   This section users will display your link to the application.
+  ![This is a mock-up of the live Application](./video/readme%20vid.webm)
 
   ## GitHub
   Arnasia
